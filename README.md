@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=DC2626&width=600&lines=Pavithra+Nair)      
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=DC2626&width=600&lines=Hi...I'm....Pavithra+Nair)      
                                    Backend-focused ISE student | Python • Java • Django  | Jain University, Bangalore
 
 
