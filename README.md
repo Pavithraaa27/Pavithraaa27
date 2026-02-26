@@ -1,4 +1,8 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Pavithra+Nair;Backend+Developer;Python+%7C+Java+%7C+Django)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Pavithra+Nair)
+
+</div>
 
 Backend-focused ISE student | Python • Java • Django  
 
