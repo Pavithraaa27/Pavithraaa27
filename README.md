@@ -1,8 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=DC2626&width=600&lines=Hi,+I'm+Pavithra+Nair)      
                                Backend-focused ISE student | Python • Java • Django  | Jain University, Bangalore
   
-
-
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
