@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=3B82F6&width=600&lines=Hi,+I'm+Pavithra+Nair)
-   Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain University, Bangalore (2023-27)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=3B82F6&width=600&lines=Hi,+I'm+Pavithra+Nair) Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain University, Bangalore (2023-27)
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
