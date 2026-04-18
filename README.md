@@ -4,6 +4,7 @@ Backend-focused ISE student | Java • Python • SQL  | B.Tech from Jain Univer
 
 ## 🚀 Projects
 
+- 💰 ExpenseFlow (Role-based expense management platform with secure login, manager approval workflow, receipt upload, and tracking system using React, Node.js/Express, and PostgreSQL)
 - 🤖 Emotion Detection Chatbot & Mental Wellness Web Application(React + TensorFlow.js)
 - 🥬 Fridge Recipe App (AI recipe suggestion bot)
 - 🌿 Nursery E-Commerce Website (HTML, CSS, JS with cart system)
