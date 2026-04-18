@@ -33,6 +33,6 @@ Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain Univer
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Pavithraaa27&show_icons=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithraaa27)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithraaa27&theme=react)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Pavithraaa27)
