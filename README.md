@@ -37,3 +37,5 @@ Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain Univer
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithraaa27&theme=react&hide_border=true)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Pavithraaa27&theme=react-dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pavithraaa227&repo=REPO_NAME)](https://github.com/Pavithraaa27/Aeries-mental-wellness-webapp)
