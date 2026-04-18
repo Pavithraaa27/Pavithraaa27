@@ -8,6 +8,7 @@ Backend-focused ISE student | Java • Python • SQL  | B.Tech from Jain Univer
 - 🥬 Fridge Recipe App (AI recipe suggestion bot)
 - 🌿 Nursery Website (HTML, CSS, JS with cart system)
 - 🔐 Secure Authentication System (Node.js + JWT)
+- 🎬 YouTube Trending Pipeline (Python, YouTube API, SQLite ETL pipeline for top trending video analysis)  
 
   
 
