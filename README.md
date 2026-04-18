@@ -4,7 +4,7 @@ Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain Univer
 
 ## 🚀 Projects
 
-- 🤖 Emotion Detection Chatbot (React + TensorFlow.js)
+- 🤖 Emotion Detection Chatbot & Mental Wellness Web Application(React + TensorFlow.js)
 - 🥬 Fridge Recipe App (AI recipe suggestion bot)
 - 🌿 Nursery Website (HTML, CSS, JS with cart system)
 - 🔐 Secure Authentication System (Node.js + JWT)
