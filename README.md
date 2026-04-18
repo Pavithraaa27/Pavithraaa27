@@ -31,4 +31,4 @@ Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain Univer
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithraaa27&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithraaa27&theme=highcontrast)
