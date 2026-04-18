@@ -2,6 +2,17 @@
 
 Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain University, Bangalore (2023-27)
 
+## 🚀 Projects
+
+- 🤖 Emotion Detection Chatbot (React + TensorFlow.js)
+- 🥬 Fridge Recipe App (AI recipe suggestion bot)
+- 🌿 Nursery Website (HTML, CSS, JS with cart system)
+
+  
+## ⚡ Fun Fact
+- I debug more than I code 😄  
+- Coffee = fuel ☕
+
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
@@ -38,4 +49,4 @@ Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain Univer
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Pavithraaa27&theme=react-dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pavithraaa227&repo=REPO_NAME)](https://github.com/Pavithraaa27/Aeries-mental-wellness-webapp)
+
