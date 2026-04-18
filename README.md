@@ -7,6 +7,7 @@ Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain Univer
 - 🤖 Emotion Detection Chatbot (React + TensorFlow.js)
 - 🥬 Fridge Recipe App (AI recipe suggestion bot)
 - 🌿 Nursery Website (HTML, CSS, JS with cart system)
+- 🔐 Secure Authentication System (Node.js + JWT)
 
   
 
