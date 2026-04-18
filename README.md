@@ -11,9 +11,6 @@ Backend-focused ISE student | Python • Java • SQL  | B.Tech from Jain Univer
   
 
 
-- I debug more than I code 😄  
-
-
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
