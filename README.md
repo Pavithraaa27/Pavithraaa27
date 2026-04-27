@@ -9,7 +9,8 @@ Backend-focused ISE student | Java • Python • SQL  | B.Tech from Jain Univer
 - 🥬 Fridge Recipe App (AI recipe suggestion bot)
 - 🌿 Nursery E-Commerce Website (HTML, CSS, JS with cart system)
 - 🔐 Secure Authentication System (Node.js + JWT)
-- 🎬 YouTube Trending Pipeline (Python, YouTube API, SQLite ETL pipeline for top trending video analysis)  
+- 🎬 YouTube Trending Pipeline (Python, YouTube API, SQLite ETL pipeline for top trending video analysis)
+- 🏨 Smart Hostel Complaint Management System (Java Swing + Apache Cassandra, scalable complaint tracking system with TTL-based expiry, counters, indexing & real-time updates)
 
 
 ### Languages
