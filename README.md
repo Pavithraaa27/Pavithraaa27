@@ -3,7 +3,6 @@
 Backend-focused ISE student | Java • Python • SQL  | B.Tech from Jain University, Bangalore (2023-27)
 
 ## 🚀 Projects
-
 - 💰 ExpenseFlow (Role-based expense approval system using React, Node.js, PostgreSQL)
 - 🤖 Emotion Detection Chatbot & Mental Wellness Web Application(FastAPI + TensorFlow.js)
 - 🥬 Fridge Recipe App (AI recipe suggestion bot)
