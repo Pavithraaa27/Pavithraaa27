@@ -12,7 +12,6 @@ Backend-focused ISE student | Java • Python • SQL  | B.Tech from Jain Univer
 - 🏨 Smart Hostel Complaint System (Java Swing + Apache Cassandra, TTL, counters & indexing)
 - 🛍️ DealCycle – A Flask-based web application for second-hand item trading with search, cart, and category-driven UI.
 
-
 ### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
