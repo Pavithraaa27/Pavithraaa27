@@ -47,7 +47,7 @@ Backend-focused ISE student | Java • Python • SQL  | B.Tech from Jain Univer
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pavithraaa27&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pavithraaa27&show_icons=true&theme=react)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithraaa27&theme=react&hide_border=true)
 
