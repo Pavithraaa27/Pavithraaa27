@@ -53,4 +53,3 @@ Backend-focused ISE student | Java DSA • Python • Databases • CN  • OS |
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Pavithraaa27&theme=react-dark)
 
-
