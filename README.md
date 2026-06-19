@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://canva.link/qmhkqoucbj9510s">
+</p>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=3B82F6&width=600&lines=Pavithra+Nair) 
 
 Backend-focused ISE student | Java DSA • Python • Databases • CN  • OS | B.Tech from Jain University, Bangalore (2023-27)
