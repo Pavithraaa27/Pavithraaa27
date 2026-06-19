@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://canva.link/b17t6h4i9khj0rv">
+  <img src="https://canva.link/qmhkqoucbj9510s">
 </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=3B82F6&width=600&lines=Pavithra+Nair) 
