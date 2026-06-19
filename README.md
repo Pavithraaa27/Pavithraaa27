@@ -2,7 +2,7 @@
   <img src="BannerPavithra.png">
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=3B82F6&center=true&width=700&lines=Building+Scalable+Web+Applications;Java+%7C+React+%7C+FastAPI;AI-Powered+Solutions;Open+to+Software+Engineering+Opportunities)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=3B82F6&center=true&width=700&lines=Software+Engineering+Enthusiast;Full+Stack+Developer;Java+%7C+React+%7C+FastAPI;DSA+%7C+DBMS+%7C+OS+%7C+Computer+Networks)
 
 
 ## 🚀 Projects 
