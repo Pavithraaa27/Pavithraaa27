@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=3B82F6&center=true&width=700&lines=Software+Engineering+Enthusiast;Full+Stack+Developer;Java+%7C+React+%7C+FastAPI;DSA+%7C+DBMS+%7C+OS+%7C+Computer+Networks)
 ## 🚀 Projects 
-
+- 📝 ProctorEd – Online Exam Proctoring System (Spring Boot, React, JWT, MySQL)
 - 💰 ExpenseFlow (Role-based expense approval system using React, Node.js, PostgreSQL)
 - 🤖 Emotion Detection Chatbot & Mental Wellness Web Application(FastAPI + TensorFlow.js)
 - 🏨 Smart Hostel Complaint System (Java Swing + Apache Cassandra, TTL, counters & indexing)
