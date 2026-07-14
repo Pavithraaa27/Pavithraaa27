@@ -4,17 +4,18 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=3B82F6&center=true&width=700&lines=Software+Engineering+Enthusiast;Full+Stack+Developer;Java+%7C+React+%7C+FastAPI;DSA+%7C+DBMS+%7C+OS+%7C+Computer+Networks)
 ## 🚀 Projects 
-🚦 QueueLess – Real-Time Queue Management System (Spring Boot, React, PostgreSQL, Redis, WebSockets)
-📝 ProctorEd – Online Exam Proctoring System (Spring Boot, React, JWT, MySQL)
-📄 CVInsight – Resume Screening & Candidate Analysis Platform (React, TypeScript, Supabase)
-💰 ExpenseFlow – Role-Based Expense Approval System (React, Node.js, PostgreSQL)
-🤖 Emotion Detection Chatbot & Mental Wellness Web Application (FastAPI, TensorFlow.js)
-🏨 Smart Hostel Complaint System (Java Swing, Apache Cassandra, TTL, Counters & Indexing)
-🥬 Fridge Recipe App (AI Recipe Suggestion Bot)
-🔐 Secure Authentication System (Node.js, JWT)
-🎬 YouTube Trending Pipeline (Python, YouTube API, SQLite ETL)
-🛍️ DealCycle – Second-Hand Marketplace (Flask, Search, Cart & Category Management)
-🌿 Nursery E-Commerce Website (HTML, CSS, JavaScript)
+
+- 🚦 **QueueLess** – Real-Time Queue Management System *(Spring Boot, React, PostgreSQL, Redis, WebSockets)*
+- 📝 **ProctorEd** – Online Exam Proctoring System *(Spring Boot, React, JWT, MySQL)*
+- 📄 **CVInsight** – Resume Screening & Candidate Analysis Platform *(React, TypeScript, Supabase)*
+- 💰 **ExpenseFlow** – Role-Based Expense Approval System *(React, Node.js, PostgreSQL)*
+- 🤖 **Emotion Detection Chatbot & Mental Wellness Web Application** *(FastAPI, TensorFlow.js)*
+- 🏨 **Smart Hostel Complaint System** *(Java Swing, Apache Cassandra, TTL, Counters & Indexing)*
+- 🥬 **Fridge Recipe App** – AI Recipe Suggestion Bot
+- 🔐 **Secure Authentication System** *(Node.js, JWT)*
+- 🎬 **YouTube Trending Pipeline** *(Python, YouTube API, SQLite ETL)*
+- 🛍️ **DealCycle** – Second-Hand Marketplace *(Flask, Search, Cart & Category Management)*
+- 🌿 **Nursery E-Commerce Website** *(HTML, CSS, JavaScript)*
 
 ### Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
