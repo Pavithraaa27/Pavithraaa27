@@ -59,8 +59,7 @@
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pavithraaa27&show_icons=true&theme=react)
 
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pavithraaa27&show_icons=true&theme=react)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pavithraaa27&theme=react&hide_border=true)
 
 
 
