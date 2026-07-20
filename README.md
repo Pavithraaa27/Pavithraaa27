@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="POSTER5.png">
+  <img src="POSTER4.png">
 </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=3B82F6&center=true&width=700&lines=Software+Engineering+Enthusiast;Full+Stack+Developer;Java+%7C+React+%7C+FastAPI;DSA+%7C+DBMS+%7C+OS+%7C+Computer+Networks)
