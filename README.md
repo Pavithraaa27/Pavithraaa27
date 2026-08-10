@@ -16,7 +16,6 @@
 - 🎬 **YouTube Trending Pipeline** *(Python, YouTube API, SQLite ETL)*
 - 🛍️ **DealCycle** – Second-Hand Marketplace *(Flask, Search, Cart & Category Management)*
 - 🌿 **Nursery E-Commerce Website** *(HTML, CSS, JavaScript)*
-- 
   
 
 ### Languages
