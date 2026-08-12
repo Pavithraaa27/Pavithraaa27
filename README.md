@@ -17,7 +17,6 @@
 - 🛍️ **DealCycle** – Second-Hand Marketplace *(Flask, Search, Cart & Category Management)*
 - 🌿 **Nursery E-Commerce Website** *(HTML, CSS, JavaScript)*
 - Vault
-- 
   
 
 ### Languages
