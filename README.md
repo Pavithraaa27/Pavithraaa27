@@ -16,7 +16,7 @@
 - 🎬 **YouTube Trending Pipeline** *(Python, YouTube API, SQLite ETL)*
 - 🛍️ **DealCycle** – Second-Hand Marketplace *(Flask, Search, Cart & Category Management)*
 - 🌿 **Nursery E-Commerce Website** *(HTML, CSS, JavaScript)*
-- 🔒 **Vault – Distributed Backup & Recovery Engine with Raft Consensus & Quorum Replication**/ *(Java, Spring Boot, AES-256-GCM)*
+- 🔒 **Vault – Distributed Backup & Recovery Engine with Raft Consensus & Quorum Replication** *(Java, Spring Boot, AES-256-GCM)*
   
 ### Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
